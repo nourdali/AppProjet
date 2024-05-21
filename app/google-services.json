@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028979809342",
+    "project_id": "services-efac2",
+    "storage_bucket": "services-efac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028979809342:android:5fd989d55548134272056f",
+        "android_client_info": {
+          "package_name": "com.example.tp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdd73M_olWhaqaUrQyS_yJP8MdPbqvuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
